@@ -69,7 +69,8 @@
 
 🌐 **Portfolio Website:**  
 - Explore my work & projects at [sheikhjishan.github.io](https://sheikhjishan.github.io/my-portfolio/)
--                                https://sheikhjishan.github.io/BharatRides/
+- Explore my latest projects at [sheikhjishan.github.io]( https://sheikhjishan.github.io/BharatRides/)
+-                               
 
 ---
 
