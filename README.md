@@ -45,30 +45,30 @@
 ---
 
 ## 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheikhjishan)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-username)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheikh-jishan-68a073293/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/builtbyjishan/?hl=en)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/your-channel)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/your-username)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_sheikhjishan_)  
 
 ---
 
 ## 📫 How to Reach Me  
 
 📩 **Email:**  
-- Reach me directly at **your-email@example.com** (I usually reply within 24 hours).  
+- Reach me directly at **jishanakhtar881@gmail.com** (I usually reply within 24 hours).  
 
 💼 **Professional Networking:**  
-- Connect with me on [LinkedIn](https://linkedin.com/in/sheikhjishan) for job opportunities, collaborations, and professional discussions.  
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/sheikh-jishan-68a073293/) for job opportunities, collaborations, and professional discussions.  
 
 🎥 **Content & Projects:**  
 - Subscribe to my [YouTube Channel](https://youtube.com/your-channel) where I share coding tutorials, projects, and tech updates.  
 
 📷 **Social Media:**  
-- Follow me on [Instagram](https://instagram.com/your-username) for coding posts, lifestyle, and behind-the-scenes of my projects.  
-- Active on [Twitter (X)](https://x.com/your-username) — sharing tech updates, thoughts, and networking with developers worldwide.  
+- Follow me on [Instagram](https://www.instagram.com/builtbyjishan/?hl=en) for coding posts, lifestyle, and behind-the-scenes of my projects.  
+- Active on [Twitter (X)](https://x.com/_sheikhjishan_) — sharing tech updates, thoughts, and networking with developers worldwide.  
 
 🌐 **Portfolio Website:**  
-- Explore my work & projects at [sheikhjishan.github.io](https://sheikhjishan.github.io)  
+- Explore my work & projects at [sheikhjishan.github.io](https://sheikhjishan.github.io/my-portfolio/)  
 
 ---
 
