@@ -1,12 +1,42 @@
-- 👋 Hi, I’m @sheikhjishan
-- 👀 I’m interested in Web Designing 
-- 🌱 I’m currently learning DSA with c++ language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through social media, Instagram, YouTube,X
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Just coding 😁
+# 👋 Hi, I'm Sheikh Jishan  
 
-<!---
-sheikhjishan/sheikhjishan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Full-Stack Developer | AI Enthusiast | Problem Solver**  
+
+---
+
+## 🌟 About Me  
+- 👀 Passionate about **Web Designing & Development**  
+- 🌱 Currently sharpening my skills in **DSA with C++**  
+- 💡 Exploring **Full-Stack Development (MERN Stack)** & **AI-based projects**  
+- 💞️ Open to collaborating on **Web Development & AI Projects**  
+- ⚡ Fun fact: *Coding feels like magic when it works on the first try 😁*  
+
+---
+
+## 🛠 Tech Skills  
+- **Languages:** C, C++, HTML, CSS, JavaScript  
+- **Frameworks & Tools:** Git, GitHub, VS Code, Tailwind CSS  
+- **Currently Learning:** React.js, Node.js, MongoDB  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheikhjishan&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhjishan&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌍 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheikhjishan)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_sheikhjishan)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/your-channel)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_sheikhjishan_)  
+
+---
+
+## 📫 How to Reach Me  
+- 💼 Email: **jishanakhtar881@gmail.com**  
+- 🌐 Portfolio: [sheikhjishan.github.io](https://sheikhjishan.github.io)  
+
+---
+✨ *Always building, always learning…*  
